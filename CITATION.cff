@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you reference this concept paper, please cite as below."
+title: "AI-Supported Decision Assistance in Postmortem Kidney Transplantation — A Concept Paper"
+authors:
+  - family-names: Alfarra
+    given-names: Mohammed
+    affiliation: "Kaun AI gGmbH, Berlin"
+    orcid: "https://orcid.org/0009-0005-5707-8102"
+type: report
+abstract: >
+  A decision-science framework for AI-supported, assistive decision assistance
+  at the center level in postmortem kidney transplantation in the Eurotransplant
+  context, optimizing decision quality under uncertainty rather than the
+  prediction of single outcomes. Three-phase study architecture (retrospective
+  cohort, prospective shadow mode, interventional pilot) with parallel
+  translational pathway addressing MDR and EU AI Act compliance.
+keywords:
+  - kidney transplantation
+  - decision support
+  - clinical decision making
+  - decision curve analysis
+  - net benefit
+  - artificial intelligence
+  - medical device regulation
+  - EU AI Act
+  - Eurotransplant
+license: CC-BY-NC-4.0
+version: "1.0"
+date-released: "2026-05-05"
+url: "https://github.com/mohhi2006/transplant-dss-concept"

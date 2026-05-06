@@ -1,0 +1,28 @@
+{
+  "title": "AI-Supported Decision Assistance in Postmortem Kidney Transplantation — A Concept Paper",
+  "description": "Concept paper documenting a decision-science framework for AI-supported, assistive decision assistance at the center level in postmortem kidney transplantation, in the Eurotransplant context. Includes a three-phase study architecture (retrospective cohort, prospective shadow mode, interventional pilot), Decision Curve Analysis as primary methodological endpoint, and a translational pathway addressing MDR and EU AI Act compliance. Released as prior-art ahead of clinical implementation.",
+  "creators": [
+    {
+      "name": "Alfarra, Mohammed",
+      "affiliation": "Kaun AI gGmbH, Berlin",
+      "orcid": "0009-0005-5707-8102"
+    }
+  ],
+  "upload_type": "publication",
+  "publication_type": "report",
+  "access_right": "open",
+  "license": "CC-BY-NC-4.0",
+  "keywords": [
+    "kidney transplantation",
+    "decision support",
+    "clinical decision making",
+    "decision curve analysis",
+    "net benefit",
+    "artificial intelligence",
+    "medical device regulation",
+    "EU AI Act",
+    "Eurotransplant"
+  ],
+  "language": "eng",
+  "communities": []
+}
