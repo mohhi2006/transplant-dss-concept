@@ -1,5 +1,7 @@
 # AI-Supported Decision Assistance in Postmortem Kidney Transplantation
 
+[![DOI](https://zenodo.org/badge/1231359381.svg)](https://doi.org/10.5281/zenodo.20059783)
+
 **Concept Paper** — methodological and study-architecture framework for an AI-supported, assistive decision support system for the center-level acceptance decision in postmortem kidney transplantation, in the Eurotransplant context.
 
 This repository contains the public concept paper. Implementation details, software architecture, and trained model artifacts are **not** part of this public release and remain proprietary intellectual property of Kaun AI gGmbH and KaunSys GmbH.
